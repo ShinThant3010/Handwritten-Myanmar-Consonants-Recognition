@@ -9,5 +9,11 @@ Applied Languages:
 - Firebase for storing input image (.jpg) and correct consonant (.txt)
 - PHP for linking 
 
+Methodology:
+- Preprocessing: using binarization, noise removal
+- Segmentation: using Projection
+- Feature Extraction: using Histogram of Oriented Gradients (HOGs)
+- Classification: using Backpropagation Neural Network
+
 Brief Description of the project:
 - 
