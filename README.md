@@ -10,10 +10,10 @@ Applied Languages:
 - PHP for linking 
 
 Methodology:
-- Preprocessing: using binarization, noise removal
-- Segmentation: using Projection
-- Feature Extraction: using Histogram of Oriented Gradients (HOGs)
-- Classification: using Backpropagation Neural Network
+- Preprocessing: binarization, noise removal
+- Segmentation: Projection
+- Feature Extraction: Histogram of Oriented Gradients (HOGs)
+- Classification: Backpropagation Neural Network
 
 Brief Description of the project:
 - 
