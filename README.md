@@ -3,7 +3,8 @@
 The project is a mini-thesis study for my Bachelor Degree. 
 It was done in September, 2018.
 
-Project Description
+## Project Description
+Training: 
 
 Dataset:
 - 
@@ -18,4 +19,4 @@ Methodology:
 - Preprocessing: binarization, noise removal
 - Segmentation: Projection
 - Feature Extraction: Histogram of Oriented Gradients (HOGs)
-- Classification: Backpropagation Neural Network
+- Classification: Back-propagation Neural Network
