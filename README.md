@@ -3,6 +3,11 @@
 The project is a mini-thesis study for my Bachelor Degree. 
 It was done in September, 2018.
 
+Project Description
+
+Dataset:
+- 
+
 Applied Languages: 
 - Matlab for classification, 
 - Java (Android) for input query, 
@@ -14,6 +19,3 @@ Methodology:
 - Segmentation: Projection
 - Feature Extraction: Histogram of Oriented Gradients (HOGs)
 - Classification: Backpropagation Neural Network
-
-Brief Description of the project:
-- 
