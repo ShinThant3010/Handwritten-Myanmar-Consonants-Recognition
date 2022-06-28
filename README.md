@@ -20,4 +20,4 @@ Students can practice Myanmar consonants using this application. The system will
 - Preprocessing: binarization, noise removal
 - Segmentation: Projection
 - Feature Extraction: Histogram of Oriented Gradients (HOGs)
-- Classification: Back-propagation Neural Network
+- Classification: Back-propagation Neural Network (accuracy = 92.73%)
